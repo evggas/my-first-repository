@@ -17,6 +17,7 @@ weather_translations = {
     "Snow": "Снег",
     "Moderate rain": "Умеренный дождь",
     "Moderate or heavy rain with thunder": "Умеренный или сильный дождь с грозой",
+    "Light rain shower": "Небольшой кратковременный дождь",
 }
 
 
